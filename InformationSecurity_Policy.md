@@ -9,7 +9,7 @@ Developed/Owned by: Mayank Deshmukh
 
 ### Introduction
 
-This document defines the Information Security Policy for <Organization Name>(also referred to hereafter as the Organization).The Information Security Policy applies to all business functions and Information contained on the network, the physical environment and relevant people who support and are Users accessible to the information.
+This document defines the Information Security Policy for "Organization Name"(also referred to hereafter as the Organization).The Information Security Policy applies to all business functions and Information contained on the network, the physical environment and relevant people who support and are Users accessible to the information.
 
 This document:
 - Sets out the Organization's policy for the protection of the confidentiality, integrity and availability of the information.
@@ -21,14 +21,10 @@ Computer ﬁles related to a client’s case. One employee could also share thei
 
 ## Purpose/Scope of this Policy
 
-The purpose of this policy is to ensure the security of the Organization's information. To
-do this
--  Ensure Availability
-   Ensure that the information is available for Users.
--  Preserve Integrity
-   Protect the information from unauthorised or accidental modification.
--  Preserve Confidentiality
-   Protect assets against unauthorised disclosure.
+The purpose of this policy is to ensure the security of the Organization's information. To do the following:
+-  Ensure Availability, Ensure that the information is available for Users.
+-  Preserve Integrity, Protect the information from unauthorised or accidental modification.
+-  Preserve Confidentiality, Protect assets against unauthorised disclosure.
 
 
 The purpose of this policy is also to ensure the proper use of the Organization’s
@@ -96,7 +92,7 @@ Non-administrative users have remote access capability
 1. The system is a file server
 2. Share access is open to this server from systems used by non-administrative users
 3. HTTP/FTP access is open from the Internet
-4. Other “risky” protocols/applications are available to this system from the Internet at the discretion of Embibe’s IT department.
+4. Other “risky” protocols/applications are available to this system from the Internet at the discretion of Organisation IT department.
 - Mail Server Anti-Virus – If the target system is a mail server it MUST have either an external or internal antivirus scanning application that scan all mail destined to and from the mail server. Local anti-virus scanning applications MAY be disabled during backups if an external anti-virus application still scans inbound e-mails while the backup is being performed.
 - Anti-Spyware – All servers MUST have an anti-spyware application installed that offers real-time protection to the target system if they meet one or more of the following conditions:
 1. Any system where non-technical or non-administrator users have remote access to the system and ANY outbound access is permitted to the Internet.
@@ -110,7 +106,7 @@ Non-administrative users have remote access capability
 - Daily Backups – Backup software shall be scheduled to run nightly to capture all data from the previous day.
 1. Backup logs are to be reviewed to verify that the backup was successfully completed.
 2. One responsible party should be available to supervise backups each day. If the designated backup specialist is not available, an alternative should be named to oversee the process.
-- Backup data storage shall not be on Embibe’s premises. In case of a disaster, backup tapes should be available for retrieval and not subject to destruction.
+- Backup data storage shall not be on Organisation premises. In case of a disaster, backup tapes should be available for retrieval and not subject to destruction.
 - Data on hard drives will be backed up daily, and mobile devices shall be bought in to be backed up on a weekly basis or as soon as practical if on an external travel arrangement.
 - Test restoration process regularly and create written instructions in the event IT personnel are not available to restore data when needed.
 
@@ -120,7 +116,7 @@ Non-administrative users have remote access capability
 - Appropriate measures must be taken when using workstation to ensure that confidentiality, integrity and availability of sensitive information is restricted to authorized users.
 
 ### Safeguards
-- <Organization> will implement physical and technical safeguards for all workstations that access electronic confidential information to restrict access to authorized users. Appropriate measures include :
+- Organization will implement physical and technical safeguards for all workstations that access electronic confidential information to restrict access to authorized users. Appropriate measures include :
 - Restricting physical access to workstations to only authorized personnel.
 - Securing workstations (screen lock or logout) prior to leaving area to prevent unauthorized access.
 - Enabling a password-protected screen saver with a short timeout period to ensure that workstations that were left unsecured will be protected.
@@ -168,7 +164,7 @@ Non-administrative users have remote access capability
 4. Word or number pattern like aaabbb, qwerty, zyxwvuts, 123321, etc.
 5. Any of the above spelled backwards.
 6. Any of the above preceded or followed by a digit (e.g., secret1, 1secret).
-7. The words “Organisation”, “<Location>”, or any derivation.
+7. The words “Organisation”, “Location”, or any derivation.
 - Try to create passwords that can be easily remembered. One way to do this is create a password based on a song title, affirmation, or other phrase.
 
 ### Protective Measures
@@ -317,7 +313,7 @@ Organisation’s key length requirements will be reviewed annually and upgraded 
 - Organisation employees and contractors with remote access privileges must ensure that their organization owned or personal computer or workstation, which is remotely connected to Organisation’s corporate network, is not connected to any other network at the same time, with the exception of personal networks that are under the complete control of the user.
 - Organisation employees and contractors with remote access privileges to Organisation’s corporate network must not use non-Organisation email account (i.e., Hotmail, Yahoo, AOL), or other external resources to conduct business, thereby ensuring that official business is never confused with personal business.
 - Routers configured for access to Organisation’s network must meet minimum authentication requirements.
-- Reconfiguration of a home user’s equipment for the purpose of split-tunneling or dual homing is not permitted at any time.
+- Reconfiguration of a home user’s equipment for the purpose of split-tunnelling or dual homing is not permitted at any time.
 - Non-standard hardware configurations must be approved by the IT department, and Organisation must approve security configurations for access to hardware.
 - All PCs, laptops and workstations that are connected to Organisation’s internal network via remote access technologies must use the most up to date anti-virus software, this includes personal computers.
 - Personal equipment that is used to connect to Organisation’s network must meet the requirement of Organisation owned equipment for remote access.
