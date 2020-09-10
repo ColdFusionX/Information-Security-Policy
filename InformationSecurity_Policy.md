@@ -378,4 +378,4 @@ Organisation’s key length requirements will be reviewed annually and upgraded 
 
 ## Enforcement
 
-- Any employee fount to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+- Any employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
